@@ -19,6 +19,7 @@ To sign, please email digitalautonomy at riseup.net or [submit a pull request](h
 Signed,
 
 - Molly de Blanc (Debian Project, GNOME Foundation)
+- Bill Budington (EFF Sr. Staff Technologist, signed in personal capacity)
 - Nathan Freitas
 - Matthew Garrett (Former member of the FSF board of directors)
 - Shauna Gordon-McKeon
@@ -625,7 +626,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Isak Sunde Singh
 1. Italo Nicola (Collabora)
 1. Italo Vignoli (OSI Director, LibreItalia Honorary President)
-1. Ivana Kellyérová
 1. Jack Firth
 1. Jack 'jrabbit' Laxson
 1. Jack Leadford
@@ -924,7 +924,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Mariatta Wijaya (Python Software Foundation Fellow members, OSI member, PyLadies)
 1. Marina "deneb_alpha" Latini (former The Document Foundation chairperson, former openSUSE board member, LibreOffice and openSUSE contributor)
 1. Mario Torre
-1. Mario Sánchez Prada (Igalia, GNOME)
 1. Marius Gedminas
 1. Marius Gripsgard (UBports Foundation founder, Lead Developer and Board of Directors, Ubuntu Member)
 1. Marius Quabeck (NerdZoom Media)
@@ -975,7 +974,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Matthias `smurf` Urlichs (Debian developer)
 1. Matthieu Gallien (KDE)
 1. Matthilde A. Stella
-1. Mattias Bengtsson (Former GNOME Maps maintainer)
 1. Matt Lee (Libre.fm, former member of the GNU Project)
 1. Matt Ray (former FSF member)
 1. Mauro Lizaur (Former Debian Developer)
@@ -1389,7 +1387,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Tobias Fella (KDE)
 1. Tobias Klausmann
 1. Tobias Rueetschi
-1. Todd C. Miller (sudo maintainer, OpenBSD developer)
 1. Tollef Fog Heen (Former Debian Technical Committee member)
 1. Tom Brantseg
 1. Tom Henderson (Founder, ExtremeLabs)
