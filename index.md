@@ -19,6 +19,7 @@ To sign, please email digitalautonomy at riseup.net or [submit a pull request](h
 Signed,
 
 - Molly de Blanc (Debian Project, GNOME Foundation)
+- Bill Budington (EFF Sr. Staff Technologist, signed in personal capacity)
 - Nathan Freitas
 - Matthew Garrett (Former member of the FSF board of directors)
 - Shauna Gordon-McKeon
@@ -304,7 +305,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Chris Koerner (Wikimedia, WordPress)
 1. Chris Riley
 1. Chris Rose
-1. Chris Sienkiewicz
 1. Chris Talib (Source! - a radio show on FLOSS, Le Reset - queer hackerspace)
 1. Chrissy LeMaire (@cl - dbatools creator)
 1. Christian Brauner (Linux Kernel Hacker, LXC maintainer)
@@ -981,7 +981,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Matt Lee (Libre.fm, former member of the GNU Project)
 1. Matt Ray (former FSF member)
 1. Mauro Lizaur (Former Debian Developer)
-1. Max Burke
 1. Maxime Renusson (Telecom engineer, FLOSS user and advocate)
 1. Maya Rashish (NetBSD)
 1. Meadhbh Hamrick
